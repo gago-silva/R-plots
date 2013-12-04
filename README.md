@@ -7,4 +7,4 @@ Natural Earth Data: http://www.naturalearthdata.com/
 
 =======
 
-author: ana.gagodasilva (at) gmail.com
+author: anagagodasilva (at) gmail.com
